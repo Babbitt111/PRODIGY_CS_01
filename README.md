@@ -18,6 +18,9 @@ A simple yet powerful Python tool for encrypting and decrypting messages using t
 1. Open a terminal or Python IDE (like Thonny or Replit)
 2. Navigate to the folder containing the file `caesar_cipher.py`
 3. Run the script:
-
+4. You'll be guided to:
+   - Choose encryption or decryption
+   - Enter your message
+   - Set a shift value between 0–25
    ```bash
    python caesar_cipher.py
