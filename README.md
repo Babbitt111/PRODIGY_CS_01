@@ -34,7 +34,6 @@ A simple yet powerful Python tool for encrypting and decrypting messages using t
 Choose mode:
 - Encrypt
 - Decrypt
-1
 
 Enter your message:
 hello world
