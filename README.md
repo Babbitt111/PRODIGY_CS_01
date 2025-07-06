@@ -22,5 +22,33 @@ A simple yet powerful Python tool for encrypting and decrypting messages using t
    - Choose encryption or decryption
    - Enter your message
    - Set a shift value between 0–25
+
    ```bash
    python caesar_cipher.py
+   
+---
+
+## 🧪 Sample Output
+
+🔐 Caesar Cipher Tool 🔐
+Choose mode:
+- Encrypt
+- Decrypt
+1
+
+Enter your message:
+hello world
+
+Enter shift value (0-25):
+5
+
+Encrypted message: mjqqt btwqi
+
+---
+
+## 🧠 What I Learned
+
+- How Caesar Cipher encryption works  
+- How to handle user input and validation in Python  
+- How to preserve non-alphabetic characters during encryption  
+- How to write clean, readable code with functions
